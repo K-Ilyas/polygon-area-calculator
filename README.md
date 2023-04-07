@@ -72,3 +72,7 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 
 Copy your project's URL and submit it to freeCodeCamp.
 This is the boilerplate for the Polygon Area Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator
+
+## Demo
+
+[Demo page](https://replit.com/@K-Ilyas/polygon-area-calculator)
